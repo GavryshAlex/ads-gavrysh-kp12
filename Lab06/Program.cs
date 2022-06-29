@@ -24,15 +24,14 @@ namespace ConsoleApplication1
             if (count == max)
             {
                 WriteLine("Queue Overflow");
-                Array.Resize<int>(ref queue, 10);
+                Array.Resize<int>(ref queue, max + 10);
+                max += 10;
+                
             }
-            else
-            {
-                tail = (tail + 1) % max;
-                queue[tail] = item;
-                count++;
-                printQueue();
-            }
+            tail = (tail + 1) % max;
+            queue[tail] = item;
+            count++;
+            printQueue();
         }
 
         public void pop()
