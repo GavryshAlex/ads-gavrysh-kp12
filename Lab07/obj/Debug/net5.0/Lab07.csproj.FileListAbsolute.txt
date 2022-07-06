@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\Lab07.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\Lab07.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\bin\Debug\net5.0\Lab07.exe
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\bin\Debug\net5.0\Lab07.deps.json
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\bin\Debug\net5.0\Lab07.runtimeconfig.json
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\bin\Debug\net5.0\Lab07.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\bin\Debug\net5.0\Lab07.dll
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\bin\Debug\net5.0\ref\Lab07.dll
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\bin\Debug\net5.0\Lab07.pdb
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\Lab07.dll
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\ref\Lab07.dll
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\Lab07.pdb
+C:\Users\User\Desktop\Programming\CSharp\ADS\Lab07\obj\Debug\net5.0\Lab07.genruntimeconfig.cache
